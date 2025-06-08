@@ -18,3 +18,8 @@ $ mkdir src
 $ cd src
 $ django-admin startproject cfehome .
 ```
+ ## 002 Added first notebook
+
+ ...
+
+ 
