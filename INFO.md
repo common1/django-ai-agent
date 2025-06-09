@@ -36,3 +36,7 @@ $ python manage.py migrate
 $ python manage.py migrate
 ```
 
+## 005 Changing Database Tables with Django Migrations
+
+...
+
