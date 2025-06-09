@@ -18,8 +18,21 @@ $ mkdir src
 $ cd src
 $ django-admin startproject cfehome .
 ```
- ## 002 Added first notebook
+## 002 Added first notebook
 
- ...
+...
 
- 
+## 003 Designing a Database Table in Django
+
+```
+$ cd src
+$ python manage.py startapp documents
+``` 
+
+## 004 Add New Database Tables with Django ORM
+
+```
+$ python manage.py migrate
+$ python manage.py migrate
+```
+
