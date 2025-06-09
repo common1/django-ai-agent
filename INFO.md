@@ -40,3 +40,10 @@ $ python manage.py migrate
 
 ...
 
+## 006 Django Users and Admin
+
+```
+$ python manage.py createsuperuser
+$ python manage.py runserver
+```
+
