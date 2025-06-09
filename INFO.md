@@ -47,3 +47,7 @@ $ python manage.py createsuperuser
 $ python manage.py runserver
 ```
 
+## 007 Interactive Django with Notebooks
+
+...
+
