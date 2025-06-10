@@ -57,5 +57,9 @@ $ python manage.py runserver
 
 ## 009 A Django Staff User - Part 1
 
-Current: 1:07:42
+...
+
+## 009 A Django Staff User - Part 2
+
+...
 
