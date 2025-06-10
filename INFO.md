@@ -63,3 +63,8 @@ $ python manage.py runserver
 
 ...
 
+## 010 Built-in Django Permissions
+
+...
+
+
