@@ -68,3 +68,7 @@ $ python manage.py runserver
 ...
 
 
+## 011 Django Lookups as Ai Agent Tools -  Part 1
+
+Current: 1:21:11
+
