@@ -76,3 +76,11 @@ $ python manage.py runserver
 
 ...
 
+## 012 Configure LLM Model with Django -  Part 1
+
+[https://python.langchain.com/docs/integrations/chat/openai/#instantiation]
+
+## 012 Configure LLM Model with Django -  Part 2
+
+Current: 1:41:40
+
